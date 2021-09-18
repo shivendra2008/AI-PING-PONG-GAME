@@ -1,0 +1,35 @@
+body
+{
+
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3{
+display: inline;
+}
+.heading button{
+    float: 
+    right;
+    }
+    .big_image
+{
+    width: 100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: rgb(238, 234, 231);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(39, 36, 36);
+    line-height: 3;
+    text-align: center;
+
+}
